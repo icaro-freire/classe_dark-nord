@@ -31,6 +31,7 @@
 \RequirePackage{amsmath, amsthm, amssymb, amscd}
 \RequirePackage{xcolor}
 \RequirePackage{lipsum}
+\RequirePackage{microtype}
 \RequirePackage{titlesec}
 
 % Configurações ---------------------------------------------------------------
